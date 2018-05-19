@@ -1,0 +1,8 @@
+ Viết chương trình nhập vào một mảng số nguyên được lưu trong tập
+tin in.txt
+
+a) Tìm xem giá trị lớn nhất trong mảng
+
+b) Đếm số phần tử chẵn trong mảng
+
+c) Tìm số phần tử lặp lại nhiều nhất trong mảng

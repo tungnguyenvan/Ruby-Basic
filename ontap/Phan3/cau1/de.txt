@@ -1,0 +1,2 @@
+Viết hàm kiểm tra số nguyên tố. Thực thi chương trình in ra n số nguyên
+tố đầu tiên lớn hơn 100. Với n đọc từ tập tin in.txt

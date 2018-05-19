@@ -1,0 +1,5 @@
+Viết hàm Fibonaci. Thực thi chương trình in ra n số Fibonaci đầu tiên.
+Với n đọc từ tập tin in.txt
+
+Nội dung tập tin in.txt
+10
